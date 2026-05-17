@@ -17,6 +17,24 @@
 
 window.BUILDS = [
   {
+    id: "infected-sky",
+    title: "Infected Sky",
+    category: "house",
+    thumb: "assets/images/infected_sky.jpg",
+    hero: "assets/images/infected_sky.jpg",
+    description: "I got this idea from a movie called Infected Sky.",
+    materials: [
+      { item: "Red Concrete", qty: "~3,800" },
+      { item: "Red Stained Glass", qty: "64" },
+      { item: "Quartz Slabs", qty: "16" },
+      { item: "Black Concrete", qty: "~3,800" }
+    ],
+    coords: "X: 128  Y: 71  Z: -420",
+    world: "Survival, version 1.20.4",
+    dateBuilt: "Built over ~3 weeks",
+    notes: "Took forever to source enough stone — found a giant ravine that solved it."
+  },
+  {
     id: "stone-keep",
     title: "Stone Keep Castle",
     category: "castle",
