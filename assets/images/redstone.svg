@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" shape-rendering="crispEdges">
+  <rect width="320" height="200" fill="#1a1a2e"/>
+  <!-- floor -->
+  <g>
+    <rect y="160" width="320" height="40" fill="#3a3a3a"/>
+    <g fill="#2a2a2a">
+      <rect y="160" width="320" height="2"/>
+      <rect y="180" width="320" height="2"/>
+      <rect x="40" y="160" width="2" height="40"/>
+      <rect x="120" y="160" width="2" height="40"/>
+      <rect x="200" y="160" width="2" height="40"/>
+      <rect x="280" y="160" width="2" height="40"/>
+    </g>
+  </g>
+  <!-- back wall stone bricks -->
+  <rect y="0" width="320" height="160" fill="#7f7f7f"/>
+  <g fill="#5d5d5d">
+    <rect y="40" width="320" height="2"/>
+    <rect y="80" width="320" height="2"/>
+    <rect y="120" width="320" height="2"/>
+    <rect x="40" y="0" width="2" height="40"/>
+    <rect x="120" y="40" width="2" height="40"/>
+    <rect x="200" y="0" width="2" height="40"/>
+    <rect x="280" y="40" width="2" height="40"/>
+    <rect x="80" y="80" width="2" height="40"/>
+    <rect x="160" y="120" width="2" height="40"/>
+    <rect x="240" y="80" width="2" height="40"/>
+  </g>
+  <!-- piston -->
+  <rect x="40" y="100" width="40" height="40" fill="#a87a44"/>
+  <rect x="40" y="100" width="40" height="8" fill="#7a5832"/>
+  <rect x="40" y="108" width="40" height="2" fill="#5d3a22"/>
+  <rect x="46" y="115" width="6" height="6" fill="#5d3a22"/>
+  <rect x="60" y="115" width="6" height="6" fill="#5d3a22"/>
+  <rect x="68" y="115" width="6" height="6" fill="#5d3a22"/>
+  <!-- redstone wire -->
+  <rect x="80" y="155" width="160" height="6" fill="#c8312a"/>
+  <rect x="80" y="153" width="160" height="2" fill="#ff5a52"/>
+  <!-- repeater -->
+  <rect x="120" y="148" width="20" height="14" fill="#a9a9a9"/>
+  <rect x="128" y="142" width="4" height="8" fill="#c8312a"/>
+  <!-- redstone torch -->
+  <rect x="170" y="120" width="4" height="32" fill="#5d3a22"/>
+  <rect x="166" y="116" width="12" height="8" fill="#c8312a"/>
+  <rect x="168" y="112" width="8" height="4" fill="#ff5a52"/>
+  <!-- lever -->
+  <rect x="220" y="120" width="14" height="6" fill="#7a5832"/>
+  <rect x="224" y="108" width="3" height="14" fill="#a9a9a9"/>
+  <!-- TNT -->
+  <rect x="250" y="120" width="40" height="40" fill="#c8312a"/>
+  <rect x="250" y="120" width="40" height="6" fill="#fff"/>
+  <rect x="250" y="156" width="40" height="4" fill="#fff"/>
+  <text x="270" y="148" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" fill="#fff">TNT</text>
+  <!-- glow -->
+  <rect x="160" y="100" width="24" height="14" fill="#ff8b6e" opacity="0.4"/>
+</svg>

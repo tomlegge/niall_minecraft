@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+  <!-- Steve-style pixel head -->
+  <rect width="64" height="64" fill="#7fb6ff"/>
+  <!-- skin base -->
+  <rect x="12" y="8" width="40" height="48" fill="#e0b48a"/>
+  <!-- hair -->
+  <rect x="12" y="8" width="40" height="14" fill="#3a2414"/>
+  <rect x="12" y="22" width="6" height="6" fill="#3a2414"/>
+  <rect x="46" y="22" width="6" height="6" fill="#3a2414"/>
+  <rect x="12" y="8" width="6" height="48" fill="#bd9870"/>
+  <rect x="46" y="8" width="6" height="48" fill="#bd9870"/>
+  <!-- ear hint -->
+  <rect x="10" y="30" width="2" height="6" fill="#bd9870"/>
+  <rect x="52" y="30" width="2" height="6" fill="#bd9870"/>
+  <!-- eye whites -->
+  <rect x="20" y="30" width="8" height="6" fill="#fff"/>
+  <rect x="36" y="30" width="8" height="6" fill="#fff"/>
+  <!-- iris -->
+  <rect x="24" y="30" width="4" height="6" fill="#3a82d6"/>
+  <rect x="36" y="30" width="4" height="6" fill="#3a82d6"/>
+  <!-- nose -->
+  <rect x="30" y="38" width="4" height="4" fill="#bd9870"/>
+  <!-- mouth -->
+  <rect x="24" y="46" width="16" height="3" fill="#5d3a22"/>
+  <rect x="22" y="48" width="2" height="2" fill="#5d3a22"/>
+  <rect x="40" y="48" width="2" height="2" fill="#5d3a22"/>
+  <!-- chin shadow -->
+  <rect x="12" y="54" width="40" height="2" fill="#bd9870"/>
+</svg>
